@@ -6,7 +6,7 @@ Este repositório contém a análise exploratória e o tratamento de dados do da
 
 *   `TelecomX_BR.ipynb`: Notebook Jupyter/Colab contendo todo o código Python para a extração, transformação e análise exploratória dos dados, incluindo a geração dos gráficos.
 *   `TelecomX_BR_Tratada.xlsx`: Arquivo Excel contendo a tabela de dados original após o processo de transformação e limpeza, pronta para ser utilizada em outras ferramentas ou análises.
-*   Pasta de imagem (.png): Arquivos de imagem dos gráficos gerados no notebook, salvos para facilitar a incorporação em apresentações ou relatórios. (Ex: `grafico_cancelamento_genero.png`, `grafico_cancelamento_suporte.png`, etc.)
+*   Imagens: Arquivos de imagem dos gráficos gerados no notebook, salvos para facilitar a incorporação em apresentações ou relatórios. (Ex: `grafico_cancelamento_genero.png`, `grafico_cancelamento_suporte.png`, etc.)
 
 ## Sobre o Projeto
 
